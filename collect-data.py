@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  9 08:11:37 2021
-
-@author: dell
-"""
-
 import cv2
 import numpy as np
 import os
