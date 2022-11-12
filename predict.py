@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 16 11:48:59 2022
 
-@author: dell
-"""
 
 import numpy as np
 from keras.models import model_from_json
